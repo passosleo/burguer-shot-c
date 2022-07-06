@@ -374,6 +374,10 @@ void registerIngredient(char type){
   lastId = 0;
   
   closeDatabase(0);
+
+  clearScreen();
+  printf("%s cadastrado com sucesso! \n\n", product.name);
+  goBack();
 };
 
 void readIngredients(char type){
