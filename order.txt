@@ -1,0 +1,9 @@
+===========================
+Pedido:
+
+Pão Italiano
+Carne Ovelha
+Quejo Mussarela
+
+Total R$24,00
+===========================
