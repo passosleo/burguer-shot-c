@@ -1,3 +1,10 @@
-# Burguer Shot C
+## Burguer Shot C
+Terminal Burguer system developed with C language during Pogramming II discipline of my graduation. It was built in terminal and uses text files to store data.
 
-Sistema de hamburgueria desenvolvido em C para o trabalho final da disciplina de Programação II pelo curso de Sistemas de Informação da FACCAT.
+## Features
+* Customer session
+* Admin session
+* Arrow navegable menu
+* Ingredients register
+* Ingredients selection
+* Statistics
